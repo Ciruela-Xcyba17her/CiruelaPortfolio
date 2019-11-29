@@ -1,0 +1,37 @@
+@media screen and (min-width: 450px){
+    .diary-box {
+        font-size: 20px;
+        display: flex;
+    }
+
+    .diary-time {
+        padding-right: 10px;
+        width: 120px;
+        border-right: 1px #ffffff solid;
+    }
+
+    .diary-progress {
+        padding-left: 20px;
+    }
+}
+
+@media screen and (max-width: 449px){
+    .diary-box {
+        font-size: 12px;
+        display: flex;
+    }
+
+    .diary-time {
+        padding-right: 10px;
+        width: 20%;
+        border-right: 1px #ffffff solid;
+    }
+    
+    .diary-progress {
+        padding-left: 15px;
+    }
+
+    .detail {
+        margin-left: -18px;
+    }
+}

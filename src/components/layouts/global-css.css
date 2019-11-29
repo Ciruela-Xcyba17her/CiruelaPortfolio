@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+    background-color: #000000;
+    font-family: 'Consolas',sans-serif;
+    color: #ffffff;
+}
+
+h1 {
+    display: block;
+    text-align: left;
+    padding: 20px 0px 10px 0px;
+    margin: 0px 0px 10px 0px;
+    font-size: 50px;
+    border-bottom: double #ffffff;
+}
+
+h2 {
+    display: block;
+    text-align: left;
+    margin: 40px 0px 5px 0px;
+    font-size: 40px;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 20px;
+}

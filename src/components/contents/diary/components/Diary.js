@@ -1,14 +1,39 @@
 import React from "react";
-import { Link } from "gatsby";
+import diaryDataAll from "./diarydata";
+import "./diary.css";
 
 class Skills extends React.Component {
     render() {
         return (
-            <p>
-                <h1>Hello, React!</h1>
-                <p>Welcome to page Diary.</p>
-                <Link to="/">Go back to the homepage</Link>
-            </p>
+            <div>
+                <h1>Diary</h1>
+                <p>My daily progresses.</p>
+                <div className="diary-container">
+                    {diaryDataAll.map((diaryData) => {
+                        return (
+                            <div className="diary-box" key={diaryData.time}>
+                                <div className="diary-time">{diaryData.time}</div>
+                                <div className="diary-progress">
+                                    <ul className="progress">
+                                        {diaryData.progresses.map((progress) => {
+                                            return (
+                                                <li key={progress.progress}>
+                                                    {progress.progress}
+                                                    <ul className="detail">
+                                                        {progress.detail.map((detail) => {
+                                                            return <li key={detail}>{detail}</li>
+                                                        })}
+                                                    </ul>
+                                                </li>
+                                            );
+                                        })}
+                                    </ul>
+                                </div>
+                            </div>
+                        );
+                    })}
+                </div>
+            </div>
         );
     }
 }

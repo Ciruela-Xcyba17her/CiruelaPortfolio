@@ -16,6 +16,28 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 02 2019",
+        "progresses": [
+            {
+                "progress": "Learned how to launch MySQL 5.7 server using docker-compose",
+                "detail": []
+            },
+            {
+                "progress": "Succeeded in installing old version of clang in Ubuntu 14.04",
+                "detail": []
+            }
+        ]
+    },
+    {
+        "time": "Dec. 01 2019",
+        "progresses": [
+            {
+                "progress": "Failed to Install old version of clang in kali-linux",
+                "detail": []
+            }
+        ]
+    },
+    {
         "time": "Nov. 30 2019",
         "progresses": [
             {

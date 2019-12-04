@@ -16,6 +16,32 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 04 2019",
+        "progresses": [
+            {
+                "progress": "Watch angr tutorials on YouTube",
+                "detail": [
+                    "URL: https://www.youtube.com/watch?v=eqaddt9ssbQ",
+                    "URL: https://www.youtube.com/watch?v=XgHZ6QnZkgc",
+                    "I didn't understand much of its functions yet."
+                ]
+            }
+
+        ]
+    },
+    {
+        "time": "Dec. 03 2019",
+        "progresses": [
+            {
+                "progress": "wrote an article in Hatena Blog",
+                "detail": [
+                    "About hiding secret texts in an image's fourier spectrum",
+                    "URL: https://verliezer93764.hatenablog.jp/entry/2019/12/05/000234"
+                ]
+            }
+        ]
+    },
+    {
         "time": "Dec. 02 2019",
         "progresses": [
             {

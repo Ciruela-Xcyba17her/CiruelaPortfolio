@@ -16,6 +16,15 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 05 2019",
+        "progresses": [
+            {
+                "progress": "Succeeded in executing angr script for the first time!",
+                "detail": []
+            }
+        ]
+    },
+    {
         "time": "Dec. 04 2019",
         "progresses": [
             {

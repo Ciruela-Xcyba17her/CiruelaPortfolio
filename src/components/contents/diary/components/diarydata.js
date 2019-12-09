@@ -16,6 +16,33 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 08 2019",
+        "progresses": [
+            {
+                "progress": "write sentences to attend GCC 2019 Tokyo",
+                "detail": []
+            }
+        ]
+    },
+    {
+        "time": "Dec. 07 2019",
+        "progresses": [
+            {
+                "progress": "write sentences to attend GCC 2019 Tokyo",
+                "detail": []
+            }
+        ]
+    },
+    {
+        "time": "Dec. 06 2019",
+        "progresses": [
+            {
+                "progress": "Learned Recurrent Neural Networks and search system",
+                "detail": []
+            }
+        ]
+    },
+    {
         "time": "Dec. 05 2019",
         "progresses": [
             {

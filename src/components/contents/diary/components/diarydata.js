@@ -16,6 +16,30 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 11 2019",
+        "progresses": [
+            {
+                "progress": "Tried to Own User at \"Postman\" in HTB - failed",
+                "detail": [
+                    "Understood how to use metasploit exploit modules from /usr/share/exploitdb"
+                ]
+            },
+            {
+                "progress": "(perhaps) Recovered from flu",
+                "detail": []
+            }
+        ]
+    },
+    {
+        "time": "Dec. 09 2019",
+        "progresses": [
+            {
+                "progress": "Diagnosed as type A influenza",
+                "detail": []
+            }
+        ]
+    },
+    {
         "time": "Dec. 08 2019",
         "progresses": [
             {

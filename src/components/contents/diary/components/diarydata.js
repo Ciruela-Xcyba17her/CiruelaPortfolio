@@ -19,13 +19,13 @@ const diaryDataAll = [
         "time": "Dec. 11 2019",
         "progresses": [
             {
-                "progress": "Tried to Own User at \"Postman\" in HTB - failed",
+                "progress": "tried to Own User at \"Postman\" in HTB - failed",
                 "detail": [
                     "Understood how to use metasploit exploit modules from /usr/share/exploitdb"
                 ]
             },
             {
-                "progress": "(perhaps) Recovered from flu",
+                "progress": "(perhaps) recovered from flu",
                 "detail": []
             }
         ]
@@ -34,7 +34,7 @@ const diaryDataAll = [
         "time": "Dec. 09 2019",
         "progresses": [
             {
-                "progress": "Diagnosed as type A influenza",
+                "progress": "diagnosed as type A influenza",
                 "detail": []
             }
         ]
@@ -43,7 +43,7 @@ const diaryDataAll = [
         "time": "Dec. 08 2019",
         "progresses": [
             {
-                "progress": "write sentences to attend GCC 2019 Tokyo",
+                "progress": "prepared for pre-exam for GCC 2019 Tokyo",
                 "detail": []
             }
         ]
@@ -52,7 +52,7 @@ const diaryDataAll = [
         "time": "Dec. 07 2019",
         "progresses": [
             {
-                "progress": "write sentences to attend GCC 2019 Tokyo",
+                "progress": "prepared for pre-exam for GCC 2019 Tokyo",
                 "detail": []
             }
         ]

@@ -16,6 +16,15 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 12 2019",
+        "progresses": [
+            {
+                "progress": "Watched 10+ HTB writeups on YouTube",
+                "detail": []
+            }
+        ]
+    },
+    {
         "time": "Dec. 11 2019",
         "progresses": [
             {

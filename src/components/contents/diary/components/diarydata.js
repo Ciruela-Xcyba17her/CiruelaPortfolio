@@ -16,6 +16,15 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 13 2019",
+        "progresses": [
+            {
+                "progress": "made a rev problem for ContrailCTF",
+                "detail": []
+            }
+        ]
+    },
+    {
         "time": "Dec. 12 2019",
         "progresses": [
             {

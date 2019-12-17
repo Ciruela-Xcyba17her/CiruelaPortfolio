@@ -16,6 +16,24 @@
 
 const diaryDataAll = [
     {
+        "time": "Dec. 17 2019",
+        "progresses": [
+            {
+                "progress": "made an article about GCC Tokyo.",
+                "detail": []
+            }
+        ]
+    },
+    {
+        "time": "Dec. 16 2019",
+        "progresses": [
+            {
+                "progress": "learned the relationships of a variance-covariance matrix and Principal Component Analysis",
+                "detail": []
+            }
+        ]
+    },
+    {
         "time": "Dec. 13 2019",
         "progresses": [
             {

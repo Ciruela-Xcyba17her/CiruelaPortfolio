@@ -16,6 +16,43 @@
 
 const diaryDataAll = [
     {
+        "time": "Mar. 05 2020",
+        "progresses": [
+            {
+                "progress": "Solved level02, level08, level25, level10",
+                "detail": [
+                    "Learned exif_imagetype() function bypass",
+                    "Learned parse_url() function bugs",
+                    "Learned loose comparison, and its bad use"
+                ]
+            }
+        ]
+    },
+    {
+        "time": "Mar. 04 2020",
+        "progresses": [
+            {
+                "progress": "solved level01, level04, level17 at websec.fr",
+                "detail": [
+                    "Learned PHP Object Injection",
+                    "Learned how to bypass strcasecmp() validation",
+                ]
+            }
+        ]
+    },
+    {
+        "time": "Mar. 02 2020",
+        "progresses": [
+            {
+                "progress": "scored 0.834 at \"Titanic: Machine Learning from Disaster\"",
+                "detail": [
+                    "Learned preprocess, feature engineering basics, hyper parameters tuning basics by other kernels",
+                    "Used Random Forest Classifier, 5-fold cross validation",
+                ]
+            }
+        ]
+    },
+    {
         "time": "Dec. 17 2019",
         "progresses": [
             {

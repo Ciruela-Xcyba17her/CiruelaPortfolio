@@ -1,9 +1,9 @@
 /* copy & paste
 {
-    "time": ,
+    "time": "",
     "progresses": [
         {
-            "progress": ,
+            "progress": "",
             "detail": [
                 "",
                 "",
@@ -11,10 +11,34 @@
             ]
         }
     ]
-}
+},
 */
 
 const diaryDataAll = [
+    {
+        "time": "Mar. 08 2020",
+        "progresses": [
+            {
+                "progress": "Fixed this portfolio website",
+                "detail": []
+            }
+        ]
+    },
+    {
+        "time": "Mar. 07 2020",
+        "progresses": [
+            {
+                "progress": "Attended zer0ptsCTF",
+                "detail": [
+                    "Solved 2 problems",
+                ]
+            },
+            {
+                "progress": "Solved level13 on websec.fr",
+                "detail": []
+            }
+        ]
+    },
     {
         "time": "Mar. 05 2020",
         "progresses": [

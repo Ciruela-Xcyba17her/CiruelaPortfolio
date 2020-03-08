@@ -1,6 +1,6 @@
 const generalSkillDataAll = [
     {
-        "skill": "static routing (netplan)",
+        "skill": "Static routing (netplan)",
         "detail": [
         ]
     },

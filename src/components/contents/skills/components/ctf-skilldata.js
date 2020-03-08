@@ -14,12 +14,12 @@ const ctfSkillDataAll = [
                 "skill": "Analysing PE and DLLs",
                 "detail": [
                     "Memory analysis and debugging using x32/x64dbg",
-                    "Read and modify C# code using dnSpy",
+                    "Read and modify C#.NET code using dnSpy",
                     "Memory analysis using CheatEngine"
                 ]
             },
             {
-                "skill": "Analysing APK",
+                "skill": "Reversing APK",
                 "detail": [
                     "Reading Java code",
                     "Rewriting .smali files"
@@ -99,17 +99,18 @@ const ctfSkillDataAll = [
         "bgColor": "#404000",
         "skills": [
             {
-                "skill": "Basical use of some tools",
+                "skill": "Basical use of some tools. (But I usually look for more and more to satisfy what I want to dd)",
                 "detail": [
                     "Volatility framework",
                     "TestDisk",
                     "UserAssist",
                     "Hash List Manager",
-                    "FTK imager",
+                    "FTK imager Lite",
                     "Event Log Explorer",
                     "Some tools of Sysinternals Suite",
                     "NTFS Log Tracker",
-                    "Fakenet"
+                    "Fakenet",
+                    "etc..."
                 ]
             }
         ]
@@ -144,6 +145,14 @@ const ctfSkillDataAll = [
             },
             {
                 "skill": "Paillier encryption/decryption",
+                "detail": []
+            },
+            {
+                "skill": "Elementary number theory",
+                "detail": []
+            },
+            {
+                "skill": "Group theory, Ring theory",
                 "detail": []
             }
         ]

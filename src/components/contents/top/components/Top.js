@@ -5,7 +5,8 @@ class Top extends React.Component {
         return (
             <div>
                 <h1>Top</h1>
-                <p>Welcome to CiruelaPortfolio. <br />Animations and more words will be added to this Top page in the future.</p>
+                <p>Welcome to CiruelaPortfolio.</p>
+                <p>I want to add something fun to this Top page, but I have no idea now...</p>
             </div>
         );
     }

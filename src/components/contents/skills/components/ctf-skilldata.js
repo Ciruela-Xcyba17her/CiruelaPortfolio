@@ -6,16 +6,16 @@ const ctfSkillDataAll = [
             {
                 "skill": "Analysing x86, x86_64 assembly",
                 "detail": [
-                    "IDA freeware and gdb-peda",
-                    "Basical use of Ghidra"
+                    "Mainly by IDA freeware and gdb-peda",
+                    "Basic usage of Ghidra"
                 ]
             },
             {
                 "skill": "Analysing PE and DLLs",
                 "detail": [
-                    "Memory analysis and debugging using x32/x64dbg",
-                    "Read and modify C#.NET code using dnSpy",
-                    "Memory analysis using CheatEngine"
+                    "Memory analysis and debugging by x32/x64dbg",
+                    "Read and modify C#.NET code by dnSpy",
+                    "Memory analysis by CheatEngine"
                 ]
             },
             {
@@ -39,7 +39,7 @@ const ctfSkillDataAll = [
                 "skill": "Basic Return Oriented Programming",
                 "detail": [
                     "ret2libc",
-                    "ROP stager with mmap() and mprotect()"
+                    "ROP stager with mmap() or mprotect()"
                 ]
             },
             {
@@ -59,18 +59,20 @@ const ctfSkillDataAll = [
             {
                 "skill": "Read JS code, (a bit) PHP code",
                 "detail": [
-                    "Basic JS deobfuscation using developer tool"
+                    "Basic JS deobfuscation by developer tool, etc."
                 ]
             },
             {
                 "skill": "Dictionary attack",
-                "detail": []
+                "detail": [
+                    "dirb, gobuster"
+                ]
             },
             {
                 "skill": "Basic XSS",
                 "detail": [
-                    "Basic Stored XSS",
-                    "Basic Reflected XSS",
+                    "Basic stored XSS",
+                    "Basic reflected XSS",
                     "Sanitising inputs"
                 ]
             },
@@ -84,8 +86,8 @@ const ctfSkillDataAll = [
             {
                 "skill": "CSRF",
                 "detail": [
-                    "Basical use of CSRF token",
-                    "Basic CSRF token bypass"
+                    "Basic usage of CSRF token",
+                    "Basic CSRF token bypass by XSS"
                 ]
             },
             {
@@ -99,7 +101,7 @@ const ctfSkillDataAll = [
         "bgColor": "#404000",
         "skills": [
             {
-                "skill": "Basical use of some tools. (But I usually look for more and more to satisfy what I want to dd)",
+                "skill": "Basic usage of some tools. (But I usually look for more and more to satisfy what I want to dd)",
                 "detail": [
                     "Volatility framework",
                     "TestDisk",
@@ -120,7 +122,7 @@ const ctfSkillDataAll = [
         "bgColor": "#402020",
         "skills": [
             {
-                "skill": "Basical use of OpenSSL",
+                "skill": "Basic usage of OpenSSL",
                 "detail": []
             },
             {
@@ -148,11 +150,7 @@ const ctfSkillDataAll = [
                 "detail": []
             },
             {
-                "skill": "Elementary number theory",
-                "detail": []
-            },
-            {
-                "skill": "Group theory, Ring theory",
+                "skill": "Basic elementary number theory, Group theory, Ring theory",
                 "detail": []
             }
         ]

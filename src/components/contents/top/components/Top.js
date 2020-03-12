@@ -6,7 +6,7 @@ class Top extends React.Component {
             <div>
                 <h1>Top</h1>
                 <p>Welcome to CiruelaPortfolio.</p>
-                <p>I want to add something fun to this Top page, but I have no idea now...</p>
+                <p>I want to add something fun to this Top page, but I have no idea now... D:</p>
             </div>
         );
     }

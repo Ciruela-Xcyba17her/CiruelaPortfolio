@@ -13,14 +13,14 @@ class Links extends React.Component {
             },
             {
                 serviceName: "Hack The Box",
-                description: "An online service to improve penetration testing skills and other cybersecurity skills.",
+                description: "An online service to improve penetration testing skills and other cybersecurity skills. I own no machines now...",
                 href: "https://www.hackthebox.eu/profile/206153",
                 bgColor: "#208020",
                 addition: "",
             },
             {
                 serviceName: "GitHub",
-                description: "My cheap programs. No stars are given to me...",
+                description: "Mainly my cheap programs.",
                 href: "https://github.com/Ciruela-Xcyba17her",
                 bgColor: "#404040",
                 addition: "",

@@ -5,14 +5,14 @@ const generalSkillDataAll = [
         ]
     },
     {
-        "skill": "Firewall settings (ufw)",
+        "skill": "Firewall configuration (ufw)",
         "detail": [
         ]
     },
     {
         "skill": "DNS server setting (BIND9)",
         "detail": [
-            "dig command to check settings"
+            "dig command to check target DNS records"
         ]
     },
     {

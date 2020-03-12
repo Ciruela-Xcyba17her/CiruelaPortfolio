@@ -41,9 +41,9 @@ class Skills extends React.Component {
                 {/*----- CTF skills section -----*/}
                 <h2>CTF</h2>
                 <p>
-                    Capture The Flag - Competition that requires knowledge and skills of cybersecurity.
+                    Capture The Flag - A competition that requires knowledge and skills of cybersecurity.
                     Problems in CTF are often divided into some categories: Reversing, Pwn, Web, etc.
-                    In this section, I'll introduce what I can do in each categories.
+                    In this section, I'll introduce what I can do (or I experienced) in each categories.
                 </p>
 
                 <div className="skills-ctf-container">
@@ -84,7 +84,7 @@ class Skills extends React.Component {
                 <h2>Programming</h2>
                 <p>
                     Programming languages which I wrote more than once. As you can see from my GitHub page (see "Links" page),
-                    I don't have any expensive works. I will be glad if you don't look down me.
+                    I don't have any expensive works. I will be glad if you don't look down me...
                 </p>
 
                 <div className="skills-programming-container">

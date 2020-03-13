@@ -6,7 +6,7 @@ class Links extends React.Component {
         const linksBoxConstants = [
             {
                 serviceName: "Speaker Deck",
-                description: "Some of my CTF writeups are uploaded as slides.",
+                description: "I uploaded some writeups of CTF as slides.",
                 href: "https://speakerdeck.com/xcyba17her",
                 bgColor: "#202060",
                 addition: "",
@@ -20,7 +20,7 @@ class Links extends React.Component {
             },
             {
                 serviceName: "GitHub",
-                description: "Mainly my cheap programs.",
+                description: "Cheap programs I developed, and some writeups of CTF.",
                 href: "https://github.com/Ciruela-Xcyba17her",
                 bgColor: "#404040",
                 addition: "",
@@ -34,7 +34,7 @@ class Links extends React.Component {
             },
             {
                 serviceName: "Hatena Blog",
-                description: "Mainly filled with my CTF writeups.",
+                description: "I post mainly CTF writeups.",
                 href: "https://verliezer93764.hatenablog.jp/",
                 bgColor: "#606060",
                 addition: "",
@@ -50,7 +50,7 @@ class Links extends React.Component {
         return (
             <div>
                 <h1>Links</h1>
-                <p>Websites which discribe my activities. Most of my contents are written in Japanese.</p>
+                <p>Most of my works are written in Japanese.</p>
                 <div className="links-container">
                     {linksBoxConstants.map((linksBoxConstant) => {
                         return (

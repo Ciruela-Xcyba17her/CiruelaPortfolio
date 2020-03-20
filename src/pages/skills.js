@@ -6,7 +6,7 @@ import SEO from "../components/seo";
 
 export default () => (
     <Layout>
-        <SEO title="CiruelaPortfolio - skills" />
+        <SEO title="CiruelaPortfolio - Skills" />
         <Skills />
     </Layout>
 );

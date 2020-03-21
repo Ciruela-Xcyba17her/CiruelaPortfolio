@@ -12,13 +12,21 @@ class Skills extends React.Component {
                     {diaryDataAll.map((diaryData) => {
                         return (
                             <div className="diary-box" key={diaryData.time}>
+
+                                {/* display time */}
                                 <div className="diary-time">{diaryData.time}</div>
+
+                                {/* display progresses */}
                                 <div className="diary-progress">
                                     <ul className="progress">
                                         {diaryData.progresses.map((progress) => {
                                             return (
                                                 <li key={progress.progress}>
+
+                                                    {/* progress name */}
                                                     {progress.progress}
+
+                                                    {/* progress details */}
                                                     <ul className="detail">
                                                         {progress.detail.map((detail) => {
                                                             return <li key={detail}>{detail}</li>

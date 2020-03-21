@@ -6,6 +6,7 @@ class Menu extends React.Component {
     render() {
         const menuLinkList = [
             { "name": "Top", "link": "/" },
+            { "name": "About me", "link": "/aboutme" },
             { "name": "Skills", "link": "/skills" },
             { "name": "Diary", "link": "/diary" },
             { "name": "Links", "link": "/links" },

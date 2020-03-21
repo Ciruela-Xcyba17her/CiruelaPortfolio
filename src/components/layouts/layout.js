@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
     <>
       <Menu />
       <main>
-        <div style={{ marginTop: `0%`, marginLeft: `4%`, marginRight: `4%` }}>
+        <div style={{ marginTop: `0%`, marginLeft: `4%`, marginRight: `4%`, marginBottom: `30px` }}>
           {children}
         </div>
       </main>

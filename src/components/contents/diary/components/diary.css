@@ -9,11 +9,16 @@
         padding-right: 10px;
         width: 120px;
         border-right: 1px #ffffff solid;
+        flex-shrink: 0;
+        overflow-wrap: break-word;
+        min-width: 0;
     }
 
     .diary-progress {
         width: 100%;
         padding-left: 20px;
+        overflow-wrap: break-word;
+        min-width: 0;
     }
 }
 
@@ -27,14 +32,21 @@
         padding-right: 10px;
         width: 20%;
         border-right: 1px #ffffff solid;
+        flex-shrink: 0;
+        overflow-wrap: break-word;
+        min-width: 0;
     }
     
     .diary-progress {
         width: 100%;
         padding-left: 15px;
+        overflow-wrap: break-word;
+        min-width: 0;
     }
 
     .detail {
         margin-left: -18px;
+        overflow-wrap: break-word;
+        min-width: 0;
     }
 }

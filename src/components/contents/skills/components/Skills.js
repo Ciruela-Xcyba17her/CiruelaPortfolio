@@ -14,7 +14,7 @@ class Skills extends React.Component {
                 {/*----- General skills section -----*/}
                 <h2>General Skills</h2>
                 <p>
-                    General skills, what I experienced more than once.
+                    General skills - what I experienced more than once.
                 </p>
 
                 <ul className="skill">
@@ -83,7 +83,7 @@ class Skills extends React.Component {
                 {/*----- Programming skills section -----*/}
                 <h2>Programming</h2>
                 <p>
-                    Programming languages which I wrote more than once. As you can see from my GitHub page (see "Links" page),
+                    Programming languages which I experienced more than once. As you can see from my GitHub page (see "Links" page),
                     I don't have any expensive works. I will be glad if you don't look down me...
                 </p>
 
@@ -91,10 +91,10 @@ class Skills extends React.Component {
                     {/* list programming skills and detail of each skill */}
                     {programmingSkillDataAll.map((programmingSkillData) => {
                         return (
-                            <>
+                            <div>
                                 <h3>{programmingSkillData.lang}</h3>
                                 <p>{programmingSkillData.detail}</p>
-                            </>
+                            </div>
                         );
                     })}
                 </div>

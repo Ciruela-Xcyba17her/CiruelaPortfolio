@@ -26,15 +26,15 @@ const generalSkillDataAll = [
         ]
     },
     {
-        "skill": "SMTP server(Postfix), POP/IMAP server(Dovecot) setting",
+        "skill": "SMTP server (Postfix), POP/IMAP server (Dovecot) setting",
         "detail": [
         ]
     },
     {
         "skill": "Docker",
         "detail": [
-            "HTTPS connection setting(http-portal version 1) between nginx server and user",
-            "developped web service(flask) with database(MySQL)"
+            "HTTPS connection setting (http-portal version 1) between nginx server and user",
+            "developped web service (flask) with database (MySQL)"
         ]
     }
 ];

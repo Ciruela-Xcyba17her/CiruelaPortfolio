@@ -13,36 +13,20 @@ const footstepDataAll = [
     },
     {
         "time": "Dec., 2018",
-        "footstep": "Completed White-hat hacker training course at Secujuku (http://www.heatwavenet.co.jp/secujuku/course/white-hacker/)."
+        "footstep": "Completed White-hat hacker training course at Secujuku. (http://www.heatwavenet.co.jp/secujuku/course/white-hacker/)"
     },
     {
         "time": "June, 2019",
-        "footstep": "passed Information Security Specialist Examination (short for \"SC\") by IPA, but not-registered. (登録セキスぺではありません。)"
+        "footstep": "Passed Information Security Specialist Examination (short for \"SC\") by IPA. (登録セキスぺではありません。)"
     },
     {
         "time": "June, 2019",
-        "footstep": "Prized as the best scored student in faculty I belongs to. (２０１９年度 理工系学部教育・研究振興基金学業優秀者)"
+        "footstep": "Prized as the best scored student in the faculty I belong to. (２０１９年度 理工系学部教育・研究振興基金学業優秀者)"
     },
     {
         "time": "Feb., 2020",
-        "footstep": "Attended Global Cybersecurity Camp v2.0 Tokyo as a student (https://www.security-camp.or.jp/event/gcc_tokyo_program.html)."
-    },
-    {
-        "time": "",
-        "footstep": ""
-    },
-    {
-        "time": "",
-        "footstep": ""
-    },
-    {
-        "time": "",
-        "footstep": ""
-    },
-    {
-        "time": "",
-        "footstep": ""
-    },
+        "footstep": "Attended Global Cybersecurity Camp v2.0 Tokyo as a student. (https://www.security-camp.or.jp/event/gcc_tokyo_program.html)"
+    }
 ];
 
 export default footstepDataAll;

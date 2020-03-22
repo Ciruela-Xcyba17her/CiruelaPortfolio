@@ -59,7 +59,7 @@ const ctfSkillDataAll = [
             {
                 "skill": "Read JS code, (a bit) PHP code",
                 "detail": [
-                    "Basic JS deobfuscation by developer tool, etc."
+                    "Basic obfuscated JS analysis by developer tool, etc."
                 ]
             },
             {

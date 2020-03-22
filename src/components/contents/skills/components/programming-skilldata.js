@@ -21,7 +21,7 @@ const programmingSkillDataAll = [
             "C/C++",
         "detail":
             "First and second language I learned at my university. " +
-            "They are languages which can access OS features or low-level features, and I must know them to solve reversing or pwn problems on CTFs." +
+            "They are languages which can access OS features or low-level features, and I must know them to solve reversing or pwn problems on CTFs. " +
             "So I often use and read C/C++. "
     },
     {
@@ -43,7 +43,7 @@ const programmingSkillDataAll = [
         "lang":
             "JavaScript (ECMAScript 6)",
         "detail":
-            "This portfolio website is made by Gatsby.js (an framework of React) and, and deployed by Netlify CMS. " +
+            "This portfolio website is made by Gatsby.js (a framework of React) and, and deployed by Netlify CMS. " +
             "Like HTML/CSS, Google is necessary to write. " +
             "In CTFs, I read it, or try to deobfuscate by developper tools, etc."
     },

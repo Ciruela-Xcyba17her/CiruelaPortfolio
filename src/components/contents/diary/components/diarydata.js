@@ -14,4 +14,6 @@
 },
 */
 
+diaryDataAll = []
+
 export default diaryDataAll;

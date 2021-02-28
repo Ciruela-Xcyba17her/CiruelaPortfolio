@@ -14,6 +14,6 @@
 },
 */
 
-diaryDataAll = []
+const diaryDataAll = []
 
 export default diaryDataAll;

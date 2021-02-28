@@ -8,8 +8,7 @@ class Aboutme extends React.Component {
         return (
             <div>
                 <h1>About me</h1>
-                <p>Hello, I'm happy to see you here! In this page I want to introduce myself roughly.</p>
-                <p>If you want to know about me more, Please <a href="https://twitter.com/__Xcyba17her_">DM me on Twitter</a> or send mail to base64-decoded string of bG92ZXRrZzM1ODRAZ21haWwuY29tCg==</p>
+                <p>Hello, I'm happy to meet you here! In this page I want to introduce myself roughly.</p>
 
                 <h2>Basic info</h2>
                 <div className="terminal">

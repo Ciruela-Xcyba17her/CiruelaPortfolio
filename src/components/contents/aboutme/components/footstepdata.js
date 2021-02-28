@@ -17,7 +17,7 @@ const footstepDataAll = [
     },
     {
         "time": "June, 2019",
-        "footstep": "Passed Information Security Specialist Examination (short for \"SC\") by IPA. (登録セキスぺではありません。)"
+        "footstep": "Passed Information Security Specialist Examination (short for \"SC\") by IPA. (非登録セキスぺ)"
     },
     {
         "time": "June, 2019",

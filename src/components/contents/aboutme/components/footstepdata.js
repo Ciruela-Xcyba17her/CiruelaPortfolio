@@ -26,7 +26,15 @@ const footstepDataAll = [
     {
         "time": "Feb., 2020",
         "footstep": "Attended Global Cybersecurity Camp v2.0 Tokyo as a student. (https://www.security-camp.or.jp/event/gcc_tokyo_program.html)"
-    }
+    },
+    {
+        "time": "Mar., 2021",
+        "footstep": "卒業論文審査会最優秀賞"
+    },
+    {
+        "time": "Mar., 2021",
+        "footstep": "学位授与式 学部総代"
+    },
 ];
 
 export default footstepDataAll;

@@ -35,7 +35,7 @@ const programmingSkillDataAll = [
         "lang":
             "Shell Scripts",
         "detail":
-            "I use it when I want to automate some processes." +
+            "I use it when I want to automate some processes."
     },
     {
         "lang":

@@ -7,15 +7,16 @@ const ctfSkillDataAll = [
                 "skill": "Analysing x86, x86_64 assembly",
                 "detail": [
                     "Mainly by IDA freeware and gdb-peda",
-                    "Basic usage of Ghidra"
+                    "Basic usage of Ghidra",
+                    "dynamic analysis with gdb-peda and angr"
                 ]
             },
             {
                 "skill": "Analysing PE and DLLs",
                 "detail": [
-                    "Memory analysis and debugging by x32/x64dbg",
+                    "Memory analysis and debugging using x32/x64dbg",
                     "Read and modify C#.NET code by dnSpy",
-                    "Memory analysis by CheatEngine"
+                    "Memory analysis using CheatEngine"
                 ]
             },
             {
@@ -46,10 +47,6 @@ const ctfSkillDataAll = [
                 "skill": "Basic Format String Attack",
                 "detail": []
             },
-            {
-                "skill": "Basic Use-After-Free",
-                "detail": []
-            }
         ]
     },
     {
@@ -57,15 +54,9 @@ const ctfSkillDataAll = [
         "bgColor": "#000040",
         "skills": [
             {
-                "skill": "Read JS code, (a bit) PHP code",
+                "skill": "Read JS code, (a little bit) PHP code",
                 "detail": [
-                    "Basic obfuscated JS analysis by developer tool, etc."
-                ]
-            },
-            {
-                "skill": "Dictionary attack",
-                "detail": [
-                    "dirb, gobuster"
+                    "Analysis of obfuscated JS codes using developer tool."
                 ]
             },
             {
@@ -101,18 +92,8 @@ const ctfSkillDataAll = [
         "bgColor": "#404000",
         "skills": [
             {
-                "skill": "Basic usage of some tools. (But I usually look for more and more to satisfy what I want to dd)",
+                "skill": "Basic usage of some tools (e.g. volatility framework)",
                 "detail": [
-                    "Volatility framework",
-                    "TestDisk",
-                    "UserAssist",
-                    "Hash List Manager",
-                    "FTK imager Lite",
-                    "Event Log Explorer",
-                    "Some tools of Sysinternals Suite",
-                    "NTFS Log Tracker",
-                    "Fakenet",
-                    "etc..."
                 ]
             }
         ]
@@ -150,7 +131,7 @@ const ctfSkillDataAll = [
                 "detail": []
             },
             {
-                "skill": "Basic elementary number theory, Group theory, Ring theory",
+                "skill": "Basic elementary number theory, group theory, ring theory",
                 "detail": []
             }
         ]

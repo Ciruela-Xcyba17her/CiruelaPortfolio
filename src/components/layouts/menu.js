@@ -7,8 +7,7 @@ class Menu extends React.Component {
         const menuLinkList = [
             { "name": "Top", "link": "/" },
             { "name": "About me", "link": "/aboutme" },
-            //{ "name": "Skills", "link": "/skills" },
-            //{ "name": "Diary", "link": "/diary" },
+            { "name": "Skills", "link": "/skills" },
             { "name": "Links", "link": "/links" },
         ];
 

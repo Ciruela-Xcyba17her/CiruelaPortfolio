@@ -34,7 +34,7 @@ const generalSkillDataAll = [
         "skill": "Docker",
         "detail": [
             "HTTPS connection setting (http-portal version 1) between nginx server and user",
-            "developped web service (flask) with database (MySQL)"
+            "developped web service (flask) with database (MySQL)",
         ]
     }
 ];
